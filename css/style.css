@@ -1,0 +1,29 @@
+.nav-item{
+    padding: 0 20px ;
+}
+.one {
+    margin-top: 100px;
+}
+.imdes{
+    width:50%;
+    margin-left: 200px;
+    border-radius: 100% 100% 0 0;
+    height: 500px;
+    
+    
+}
+.p2{
+    width: 200px;
+}
+.item1{
+    background-color: blue      ;
+    width: 50%;
+    margin: 0 40px;
+    border-radius: 100px 0 100px 0;
+}
+
+span{
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+}
